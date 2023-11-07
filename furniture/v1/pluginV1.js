@@ -38,7 +38,7 @@
 					(n.style.boxShadow = '5px 5px 20px rgba(0, 0, 0, 0.5)'),
 					(n.style.width = window.screen.availWidth > 768 ? '70vw' : '90vw'),
 					(n.style.height = '80vh'),
-					(n.style.top = '45%'),
+					(n.style.top = '50%'),
 					(n.style.left = '50%'),
 					(n.style.transform = 'translate(-50%, -50%)'),
 					(n.style.pointerEvents = 'auto'),
