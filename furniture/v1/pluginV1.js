@@ -36,7 +36,7 @@
 					(n.style.zIndex = '1000'),
 					(n.style.border = '2px solid #444548'),
 					(n.style.boxShadow = '5px 5px 20px rgba(0, 0, 0, 0.5)'),
-					(n.style.width = window.screen.availWidth > 768 ? '70vw' : '90vw'),
+					(n.style.width = window.screen.availWidth > 768 ? '80vw' : '90vw'),
 					(n.style.height = '80vh'),
 					(n.style.top = '50%'),
 					(n.style.left = '50%'),
@@ -104,8 +104,8 @@
 								break;
 							case !1:
 								(t.style.width =
-									window.screen.availWidth > 768 ? '70vw' : '90vw'),
-									(t.style.height = '75vh'),
+									window.screen.availWidth > 768 ? '80vw' : '90vw'),
+									(t.style.height = '80vh'),
 									(t.style.top = '50%'),
 									(t.style.right = '50%'),
 									(t.style.transform = 'translate(-50%, -50%)'),
